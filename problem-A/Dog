@@ -8,3 +8,7 @@ class Dog extends Cat{
     public static void greets(Dog another){
         System.out.println("Woooof");
     }
+    public String toString(){
+        return "Dog["+super.toString()+"]";
+    }
+ }
