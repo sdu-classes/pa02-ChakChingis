@@ -1,4 +1,3 @@
-package OOP.Ex_4_5;
 
 public class Rectangle extends Shape {
     private double width;
