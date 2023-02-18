@@ -7,4 +7,3 @@ public class Animal {
          return "Animal[name ="  + name+"]";
      }
  }
-    
